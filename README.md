@@ -1,4 +1,4 @@
-## Olá! Me chamo Dhavy Santos, Programador node back-end e um poquinho de front
+## Hi I'm Dhavy Santos
 <div align="center">
   <a href="https://github.com/dhavysantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhavysantos&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
