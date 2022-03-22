@@ -2,7 +2,7 @@
 <div align="center">
   <a href="https://github.com/dhavysantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhavysantos&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="560em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhavysantos&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="180em" width="460em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhavysantos&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Dhavy-VSC" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
