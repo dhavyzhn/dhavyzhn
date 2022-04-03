@@ -11,9 +11,8 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 	<li> Web ( HTML , JS , CSS)
 	<li> Backend (Typescript,  Javascript, Node)
 	<li> VSCode 
-<ul/>
+<ul/>	
 <br/>
-		
 ## Contacts
 <ul>
 	<li>Email: dhavyzhn@gmail.com
