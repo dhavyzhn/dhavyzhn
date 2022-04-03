@@ -13,12 +13,6 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 	<li> Backend (Typescript,  Javascript, Node)
 	<li> VSCode 
 <ul/>	
-		
-<ul>
-	<li>Email: dhavyzhn@gmail.com
-	<li> Discord: dhavyzhn#6555
-	<li>WhatsApp +55 21 995461877
-<ul/>
 
 ## Contacts
 <ul>
