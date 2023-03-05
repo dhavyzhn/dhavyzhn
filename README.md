@@ -18,7 +18,7 @@
 
 ## Contacts
 
-	Email: dhavyzhn@gmail.com
+	Email: dhavyzhn@proton.me
 	Discord: dhavyzhn#6555
 	WhatsApp +55 21 995701283
 
