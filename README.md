@@ -13,7 +13,7 @@
  - Node.js	 	
  - Electron.js 	
  - Web ( HTML , JS , CSS) 	
- - Backend (Typescript, Javascript, Node)
+ - Backend (Typescript, Node)
  - VSCode
 
 ## Contacts
